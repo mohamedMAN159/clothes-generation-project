@@ -1,4 +1,4 @@
-# 🎨 AI Image Generation Project
+# 🎨 AI Image Generation Project @ beyond apps group
 
 A comprehensive image generation toolkit featuring Stable Diffusion XL (SDXL), FLUX, and custom LoRA fine-tuning capabilities. Generate high-quality images using various models with an easy-to-use web interface.
 
@@ -548,5 +548,6 @@ If you encounter issues:
 - [Hugging Face Tokens](https://huggingface.co/settings/tokens)
 
 ---
+
 
 **Happy generating! 🎨**
