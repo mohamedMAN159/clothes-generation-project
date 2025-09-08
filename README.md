@@ -16,7 +16,7 @@ A comprehensive image generation toolkit featuring Stable Diffusion XL (SDXL), F
 - [Fine-tuning Guide](#fine-tuning-guide)
 - [Project Structure](#project-structure)
 - [Troubleshooting](#troubleshooting)
-- [Configuration](#configuration)
+- [Configuration](#configuration) 
 
 ## ✨ Features
 
@@ -551,3 +551,4 @@ If you encounter issues:
 
 
 **Happy generating! 🎨**
+
